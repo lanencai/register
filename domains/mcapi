@@ -1,1 +1,12 @@
-
+{
+  "owner": {
+    "username": "lanencai",
+    "email": "13766318687@163.com"
+  },
+  "record": {
+    "NS": [
+      "aryanna.ns.cloudflare.com",
+      "aragorn.ns.cloudflare.com"
+    ]
+  }
+}
